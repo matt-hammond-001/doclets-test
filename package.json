@@ -1,0 +1,19 @@
+{
+  "name": "doclets-test",
+  "version": "0.0.0",
+  "description": "This is a test of doclets.io",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-hammond-bbc/doclets-test.git"
+  },
+  "author": "Matt Hammond (BBC)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/matt-hammond-bbc/doclets-test/issues"
+  },
+  "homepage": "https://github.com/matt-hammond-bbc/doclets-test#readme"
+}
