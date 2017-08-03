@@ -1,2 +1,2 @@
 # doclets-test
-test of doclets.io
+This is a test of doclets.io
